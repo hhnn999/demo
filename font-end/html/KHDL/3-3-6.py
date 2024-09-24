@@ -1,0 +1,1 @@
+drink = ["pepsi", 14000, "lipton", 16000, ""]
